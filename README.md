@@ -1,3 +1,4 @@
+[код кс.txt](https://github.com/niki526378/cs/files/8394048/default.txt)
 # Игра на Unity 3D cs-clicker
 Цель: убть всех противников
 
